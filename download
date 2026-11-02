@@ -1,0 +1,11 @@
+# Secrets - never upload this
+.env
+
+# Installed packages
+node_modules/
+
+# Logs and editor files
+*.log
+.idea/
+.vscode/
+.DS_Store
